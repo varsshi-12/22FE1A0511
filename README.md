@@ -48,8 +48,8 @@ url-shortener-frontend/
 🔗 Shortener Page – Input multiple URLs with validity & shortcode.
 ![image](<img width="1920" height="1080" alt="Shortener" src="https://github.com/user-attachments/assets/911412d6-12b3-41eb-9fa2-3deb98bd1603" />)
 📊 Statistics Page – View history, clicks, expiry, and logs.
-![image](<img width="1920" height="1080" alt="Screenshot (67)" src="https://github.com/user-attachments/assets/0d126feb-28ea-4bd2-b995-b6b8592a796c" />
-)
+![image](<img width="1920" height="1080" alt="Screenshot (67)" src="https://github.com/user-attachments/assets/f3f8e38e-64a6-462a-87da-6bdf9fa6262c" />)
+
 ## 🧪 Testing
 
 Verified link shortening with sample inputs:
